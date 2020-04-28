@@ -7,11 +7,10 @@ VR Technology Lab4 at Rutgers University
 ## Features
 - [x] Row animation
 - [x] A simple crosshair on screen
-- [x] Scoring system
 - [x] Arrow will stick to objects if hit
 - [x] Wind system
 - [x] Firework
-
+- [ ] Scoring system
 ## OverView
 ![image](https://github.com/Engoccc/Unity_ArrowShooting/blob/master/Demo/bowStatic.png)
 ![image](https://github.com/Engoccc/Unity_ArrowShooting/blob/master/Demo/bowStretch.png)
